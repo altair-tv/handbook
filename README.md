@@ -12,5 +12,5 @@ Welcome to Altair! We're ecstatic to have you with us.
 
 ## Documents
 
-* [Balanced Employee Intellectual Property Agreement](https://github.com/altair-tv/handbook/blob/main/hiring/balanced-employee-ip-agreement.md) ([PDF](https://github.com/altair-tv/handbook/blob/main/hiring/balanced-employee-ip-agreement.pdf))
+* [Balanced Employee Intellectual Property Agreement](https://github.com/altair-tv/handbook/blob/main/documents/balanced-employee-ip-agreement.md) ([PDF](https://github.com/altair-tv/handbook/blob/main/documents/balanced-employee-ip-agreement.pdf))
 
