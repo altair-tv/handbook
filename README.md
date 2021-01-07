@@ -7,3 +7,10 @@ You're looking at our take on the employee handbook. It's less of a book and mor
 Welcome to Altair! We're ecstatic to have you with us.
 
 — [Bryan](https://twitter.com/avalonstar), CEO
+
+***
+
+## Documents
+
+* [Balanced Employee Intellectual Property Agreement](https://github.com/altair-tv/handbook/blob/main/hiring/balanced-employee-ip-agreement.md) ([PDF](https://github.com/altair-tv/handbook/blob/main/hiring/balanced-employee-ip-agreement.pdf))
+
