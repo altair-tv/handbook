@@ -10,6 +10,10 @@ Welcome to Altair! We're ecstatic to have you with us.
 
 ***
 
+## Sections
+
+* [Benefits & Perks](https://github.com/altair-tv/handbook/blob/main/benefits-and-perks.md)
+
 ## Documents
 
 * [Balanced Employee Intellectual Property Agreement](https://github.com/altair-tv/handbook/blob/main/documents/balanced-employee-ip-agreement.md) ([PDF](https://github.com/altair-tv/handbook/blob/main/documents/balanced-employee-ip-agreement.pdf))
