@@ -18,3 +18,10 @@ Welcome to Altair! We're ecstatic to have you with us.
 
 * [Balanced Employee Intellectual Property Agreement](https://github.com/altair-tv/handbook/blob/main/documents/balanced-employee-ip-agreement.md) ([PDF](https://github.com/altair-tv/handbook/blob/main/documents/balanced-employee-ip-agreement.pdf))
 
+## Acknolwedgments & Attribution
+
+In writing this, we're [standing on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants) and the _infinitely more eloquent_ amongst us. This document would've not been possible without these open-source contributions and references:
+
+* [The Basecamp Handbook](https://github.com/basecamp/handbook)
+* [The Bonusly Un-Handbook](https://github.com/bonusly/un-handbook)
+* [The Clef Handbook](https://github.com/clef/handbook)
